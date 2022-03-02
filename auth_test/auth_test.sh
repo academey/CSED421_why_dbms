@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pip install requests
-pip install pyyaml
+pip3 install requests
+pip3 install pyyaml
 
 python3 check_password.py
